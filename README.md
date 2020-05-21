@@ -1,11 +1,14 @@
 # EndlessBallie
 
-https://gamedevelopment.tutsplus.com/tutorials/creating-a-simple-3d-endless-runner-game-using-three-js--cms-29157
+🔮 Indie web game created using THREE.js.
+The goal is to keep Ballie rolling. When it collides with a tree the score is reset.
 
-http://buildnewgames.com/webgl-threejs/
 
-https://threejsfundamentals.org/threejs/lessons/threejs-game.html
+## Demo
+Basic gameplay
 
-https://github.com/noiron/race-game-threejs
+<img src="/demos/game.gif" width="800">
 
-https://habr.com/ru/post/494810/
+## Contributors
+* Olga Turcan - [cherryDevBomb](https://github.com/cherryDevBomb)
+* Viorel Gurdis - [viorelyo](https://github.com/viorelyo)
